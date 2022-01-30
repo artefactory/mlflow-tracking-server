@@ -9,6 +9,6 @@ entries:
     name: mlflow-tracking-server
     type: application
     urls:
-    - https://artefactory-global.github.io/mlflow-tracking-server/mlflow-tracking-server-0.1.0.tgz
+    - https://artefactory.github.io/mlflow-tracking-server/mlflow-tracking-server-0.1.0.tgz
     version: 0.1.0
 generated: "2021-10-11T22:55:18.510321+02:00"
